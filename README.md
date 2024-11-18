@@ -1,5 +1,5 @@
 # FSMS
-A Food Safety Management System (FSMS) is a structured approach to managing food safety throughout the entire food supply chain, from farm to fork. The goal is to ensure that food is safe for consumption and that risks related to foodborne hazards are minimized. An FSMS integrates policies, procedures, and practices to ensure that food safety standards are met at all stages of food production, processing, handling, and distribution.
+**A Food Safety Management System (FSMS)** is a structured approach to managing food safety throughout the entire food supply chain, from farm to fork. The goal is to ensure that food is safe for consumption and that risks related to foodborne hazards are minimized. An FSMS integrates policies, procedures, and practices to ensure that food safety standards are met at all stages of food production, processing, handling, and distribution.
 # The key features of a **Food Safety Management System (FSMS)** :
 
 1. **Risk-Based Approach**: A restaurant identifies high-risk areas (e.g., raw meat handling) and implements specific controls, such as separate cutting boards for meats and vegetables.
