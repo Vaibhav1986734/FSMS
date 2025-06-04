@@ -1,19 +1,68 @@
-# FSMS
-**A Food Safety Management System (FSMS)** is a structured approach to managing food safety throughout the entire food supply chain, from farm to fork. The goal is to ensure that food is safe for consumption and that risks related to foodborne hazards are minimized. An FSMS integrates policies, procedures, and practices to ensure that food safety standards are met at all stages of food production, processing, handling, and distribution.
-# The key features of a **Food Safety Management System (FSMS)** :
+# 🌱 FSMS - Sustainable Food Supply Chain
 
-1. **Risk-Based Approach**: A restaurant identifies high-risk areas (e.g., raw meat handling) and implements specific controls, such as separate cutting boards for meats and vegetables.
+**FSMS (Food Supply Management System)** is a smart and sustainable food supply chain management system designed to optimize resources, reduce food waste, and enhance transparency throughout the supply chain — from farm to fork. This project leverages data analytics, machine learning, and automation to create a greener, safer, and more efficient food ecosystem.
 
-2. **Compliance with Standards**: A food manufacturer follows **ISO 22000** or **HACCP** guidelines to monitor critical processes like cooking and cooling temperatures to prevent foodborne illnesses.
+---
 
-3. **Preventive Controls**: A bakery ensures that employees wash hands regularly, sanitize surfaces, and check expiration dates on ingredients to prevent contamination during food preparation.
+## 🚀 Project Goals
 
-4. **Traceability and Recall**: A supermarket tracks batch numbers of canned goods and can quickly pull a specific batch off the shelves if a recall is issued due to contamination.
+The aim of FSMS is to:
+- Promote **sustainable agriculture and logistics**
+- Reduce **waste and carbon emissions**
+- Enable **real-time tracking** of resources (water, energy, transport)
+- Predict **demand trends** using historical data
+- Increase **transparency and traceability** across the food chain
 
-5. **Documentation and Record-Keeping**: A juice processing plant keeps daily logs of cleaning schedules, ingredient quality checks, and temperature monitoring to demonstrate compliance with food safety standards.
+---
 
-6. **Continuous Monitoring**: A dairy farm uses automated sensors to monitor milk temperature and storage conditions, ensuring products remain within safe ranges until delivery.
+## 🔑 Key Features
 
-7. **Training and Awareness**: A foodservice chain provides regular training to staff on personal hygiene, proper food storage, and handling practices to reduce food safety risks.
+1. **Resource-Based Monitoring**  
+   FSMS monitors water, energy, and transport emissions during farming and logistics to identify and reduce excess usage.
 
-8. **Corrective Actions and Improvements**: A seafood distributor, after a product failure, revises its handling and storage procedures to prevent future issues, demonstrating continuous improvement in its FSMS.
+2. **Sustainability Standards Compliance**  
+   Supports alignment with **UN Sustainable Development Goals (SDGs)** and **ESG** criteria to ensure ethical and environmentally responsible practices.
+
+3. **AI-Powered Demand Prediction**  
+   Machine Learning models forecast future demand based on historical user data, helping producers align output with consumption patterns.
+
+4. **Product Traceability**  
+   Every product batch is traceable from origin to consumer, enabling quick recalls and fostering trust.
+
+5. **Data Logging & Visual Analytics**  
+   A powerful dashboard displays key metrics like carbon emissions, wastage rate, and utility consumption for informed decision-making.
+
+6. **Real-Time Alerts**  
+   IoT sensors or manual input notify stakeholders of threshold breaches in temperature, humidity, or emissions.
+
+7. **Training & Guidelines**  
+   Educational modules are available for farmers and logistics managers to implement sustainable practices.
+
+8. **Continuous Improvement & Feedback**  
+   Automatically suggests corrective measures and reports inefficiencies for ongoing optimization.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: HTML, CSS, JavaScript, Bootstrap  
+- **Backend**: PHP  
+- **Database**: MySQL  
+- **Data Handling**: Cron Jobs, CSV Import  
+- **ML Integration**: Python (via trained `.pkl` model)  
+- **Email Services**: PHPMailer with SMTP  
+- **UI Icons**: Font Awesome  
+- **Hosting Platform**: XAMPP / Localhost (Dev Phase)
+
+---
+
+## 📧 Email Server Details
+
+- **Mailer Used**: PHPMailer  
+- **Protocol**: SMTP  
+- **Host**: `smtp.gmail.com`  
+- **Port**: 587  
+- **Security**: TLS  
+- **Use Case**: Email verification for timeline subscriptions, alerts, and reports.
+
+
