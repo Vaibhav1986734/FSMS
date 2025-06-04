@@ -1,0 +1,102 @@
+  /* Button to move to the top */
+  #backToTop {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    display: none;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    padding: 10px 15px;
+    cursor: pointer;
+}
+
+.navbar-brand
+{
+    font-family: 'arial';
+    font-size:40px;
+    font-weight:bold;
+    color:skyblue !important;
+}
+.navimg{
+    height: 60px;
+}
+.btn1{
+    border-radius: 20px;
+    font-weight: 700;
+}
+.nav-link{
+    font-weight: 700;
+}
+
+.card {
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.card img {
+    transition: transform 0.5s ease;
+}
+
+.card:hover img {
+    transform: translateY(-100%);
+}
+
+.card-body {
+    position: absolute;
+    bottom: 0;
+    background: rgba(255, 255, 255, 0.9);
+    transition: transform 0.5s ease;
+    transform: translateY(100%);
+    width: 100%;
+    padding: 15px;
+}
+
+.card:hover .card-body {
+    transform: translateY(0);
+}
+
+
+footer
+   {
+      background: linear-gradient(#34aacb,#020202);
+      color: white;
+      padding: 40px;
+   
+   }
+
+  footer a
+   {
+       text-decoration: none;
+       color: white;
+    }
+
+   footer a:hover
+    {
+       text-decoration: none;
+       color: white;
+       font-weight: bold;
+   }
+
+  footer#socialicons
+   {   
+       list-style: none;
+       padding: 0px;
+       margin: 0px;    
+    }
+
+   footer #socialicons li
+    {
+        display: inline-block;    
+    }
+
+    footer #socialicons li a
+      {
+           display: block;
+           margin-right: 20px;
+       }
+
+
+
